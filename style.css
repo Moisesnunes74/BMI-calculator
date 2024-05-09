@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Poppins:wght@300;400&display=swap');
+
+
+body {
+    background-color: rgba(165, 42, 42, 0.795);
+    text-align: center;
+}
+
+#title {
+    margin-top: 55px;
+    color: aliceblue;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 40px;
+   
+}
+
+#main {
+    background-color: burlywood;
+    margin:65px 600px 0px 600px;
+    border: 2px solid rgba(238, 255, 0, 0.233);
+
+}
+
+#para{
+    color: rgba(1, 100, 187, 0.74);
+    margin-bottom: 30px;
+    
+}
+
+#res {
+    margin-top: 50px;
+}
+
+#button {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px 5px 2px 5px;
+}
+
+.p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 380;
+}
+
